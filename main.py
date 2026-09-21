@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 import os
 import re
-import networkx as nx
+import networkx as nx #type:ignore
 
-from qgis.core import (
+from qgis.core import ( #type:ignore
     QgsProject, QgsSpatialIndex, QgsField, QgsPointXY, QgsFeature, QgsVectorLayer
 )
-from qgis.PyQt.QtCore import QVariant, Qt
-from qgis.PyQt.QtWidgets import (
+from qgis.PyQt.QtCore import QVariant, Qt #type:ignore
+from qgis.PyQt.QtWidgets import ( #type:ignore
     QAction, QDialog, QVBoxLayout, QHBoxLayout, QRadioButton, QGroupBox,
     QLabel, QComboBox, QPushButton, QMessageBox, QDoubleSpinBox,
     QListWidget, QListWidgetItem, QCheckBox

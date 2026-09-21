@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# __init__.py
 
 def classFactory(iface):
     """Load MultipointLineNaming class from main.py."""
