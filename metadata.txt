@@ -1,0 +1,17 @@
+[general]
+name=Multipoint Line Naming
+qgisMinimumVersion=3.0
+description=Automates hierarchical graph-based naming for network line segments connecting origin points and secondary nodes.
+about=Traces topology paths along vector lines to generate sequential naming based on connected point attributes (e.g., SFC and trenching networks).
+version=1.0.0
+author=Ope Damilola Daniel
+email=danielope62@gmail.com
+
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+tags=network, topology, line naming, graph, vector
+repository=https://github.com/yourusername/multipoint-line-naming
+tracker=https://github.com/yourusername/multipoint-line-naming/issues
+homepage=https://github.com/yourusername/multipoint-line-naming
