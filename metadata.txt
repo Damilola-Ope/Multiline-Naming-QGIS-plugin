@@ -14,3 +14,4 @@ deprecated=False
 tags=network, topology, line naming, graph, vector
 repository=https://github.com/Damilola-Ope/Multiline-Naming-QGIS-plugin
 tracker=https://github.com/Damilola-Ope/Multiline-Naming-QGIS-plugin/issues
+homepage=https://github.com/Damilola-Ope/Multiline-Naming-QGIS-plugin
