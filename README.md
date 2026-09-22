@@ -8,3 +8,5 @@
 - **Disconnected Subgraph Support:** Gracefully handles isolated or multi-root network branches.
 - **Smart Prefix Trimming:** Removes redundant site DUIDs for cleaner attribute naming.
 - **Flexible UI:** Pre-configured SFC &amp; Trenching modes, plus a custom override panel with configurable snapping tolerances.
+
+**NOTE** in case of issues, please use the `ISSUES.md` file as a format, Thank you
