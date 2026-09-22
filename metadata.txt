@@ -8,7 +8,7 @@ author=Ope Damilola Daniel
 email=danielope62@gmail.com
 
 category=Vector
-icon=icon.png
+icon=icon.svg
 experimental=False
 deprecated=False
 tags=network, topology, line naming, graph, vector
